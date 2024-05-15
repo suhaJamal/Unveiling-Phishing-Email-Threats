@@ -1,4 +1,4 @@
-## Phishing Email Detection
+## Unveiling Phishing Email Threats: Feature Extraction and Analysis for Email Security
 
 ### Project Overview
 This project aims to develop a sophisticated machine learning model to identify phishing emails. It uses advanced data science techniques to analyze both the text of emails and embedded URLs, applying a two-tiered modeling strategy to improve detection accuracy.
